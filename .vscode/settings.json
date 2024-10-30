@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./forks/mt-metrics-eval"
+    ]
+}
